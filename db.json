@@ -1,4 +1,14 @@
 {
+ "persona": [
+    {
+      "nombre": "Yudith Leon",
+      "tipo": "C.C",
+      "numero": "1000000",
+      "celular": "3001234567",
+      "direccion": "Bogotá- Calle 52",
+      "imagen": "https://res.cloudinary.com/danimel/image/upload/v1702668661/Netflix/Frame_29_1_ysbk0d.png"
+    }
+  ],
   "movies": [
     {
       "id": "3",
