@@ -1,4 +1,13 @@
 {
+  "persona": [
+    {
+      "nombre": "Yudith Leon",
+      "tipoDoc": "T.I",
+      "numDocumento": "12365236",
+      "celular": "+57 3001233652",
+      "imagen": "https://res.cloudinary.com/danimel/image/upload/v1702584989/Netflix/Card_lmgwvs.png"
+    }
+  ],
   "movies": [
     {
       "id": "3",
